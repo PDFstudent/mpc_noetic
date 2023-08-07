@@ -6,10 +6,6 @@
 ```
 sudo apt-get install cppad gfortran  
 ```
-
-## Get ipopt source code    
-Download Ipopt-3.12.8.tgz from https://www.coin-or.org/download/source/Ipopt/  
-Untar the package and cd into the "Ipopt-3.12.8" folder({$CUSTOM_PATH})  
   
 ## Step by step download the libraries
  
